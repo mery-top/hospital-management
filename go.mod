@@ -1,4 +1,4 @@
-module go-server
+module github.com/mery-top/hospital-management
 
 go 1.23.5
 
