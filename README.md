@@ -1,1 +1,1 @@
-Hospital Management System using Microservices in GO.
+Hospital Management System using Microservices in GO/htmx.
