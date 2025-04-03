@@ -8,6 +8,7 @@ import(
 )
 
 func main(){
+	//Router
 	r:= mux.NewRouter()
 	r.HandleFunc("/doctors", GetDoctors).Methods("GET")
 	r.HandleFunc("/doctor/{id}", GetDoctorByID).Methods("GET")
